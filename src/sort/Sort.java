@@ -7,4 +7,6 @@ public interface Sort {
 	public void display();
 	
 	public void sort();
+	
+	//TODO print
 }
